@@ -239,7 +239,7 @@ abbr {
 	white-space: nowrap;
 	display: inline-block;
 	text-decoration: none;
-	font-size: .725em;
+	font-size: 0.8125em; /* 13px /16 */
 	padding: .5rem 1rem;
   border-radius: 9999px;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -333,7 +333,7 @@ abbr {
 .count,
 .date,
 .heart-hundo {
-	color: #374151;
+	color: #fff;
 	font-size: 0.8125em; /* 13px /16 */
 }
 .leaderboard-score-circles {
