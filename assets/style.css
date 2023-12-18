@@ -263,14 +263,17 @@ abbr {
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
   transition-timing-function: cubic-bezier(0.4,0,0.2,1);
   transition-duration: .3s;
+	color: #fff;
   background-color: #2563eb!important;
 	text-align: center;
 }
 [data-expand-alias]:active,
 [data-expand-alias]:focus,
 [data-expand-alias]:hover {
+	color: #fff;
 	background: #bfdbfe;
 }
+
 .js .leaderboard-details > summary {
 	border: 0;
 	clip: rect(0 0 0 0);
