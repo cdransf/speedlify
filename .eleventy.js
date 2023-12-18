@@ -322,6 +322,7 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/chartist/dist/chartist.js": "chartist.js",
 		"./node_modules/chartist/dist/chartist.css.map": "chartist.css.map",
 	});
+	eleventyConfig.addPassthroughCopy('_redirects')
 
 	eleventyConfig.addWatchTarget("./assets/");
 
