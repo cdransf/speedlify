@@ -41,5 +41,11 @@
 
 		<script defer src="{{ '/chartist.js' | url }}"></script>
 		<script defer src="{{ '/script.js' | url }}"></script>
+		<script>
+			;(async function () {
+				if (window.location.search.includes('ignore-me') && localStorage)
+					localStorage.plausible_ignore = true
+			})()
+		</script>
 	</body>
 </html>
