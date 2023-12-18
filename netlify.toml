@@ -1,3 +1,9 @@
+###
+# URLs
+###
+[build.processing.html]
+  pretty_urls = true
+
 [build]
   publish = "_site"
   command = "npm run build-production"
