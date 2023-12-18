@@ -185,7 +185,7 @@ abbr {
 	height: 0;
 	border-top: 7px solid transparent;
 	border-bottom: 7px solid transparent;
-	border-left: 7px solid #374151;
+	border-left: 7px solid #fff;
 }
 .leaderboard-list-entry.expanded .leaderboard-expand-icon {
 	transform: rotate(90deg);
@@ -236,16 +236,12 @@ abbr {
 }
 
 [data-expand-alias] {
-  appearance: none!important;
-  font-weight: 600;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  margin-right: 0.25rem;
-  margin-bottom: 0.75rem;
+	white-space: nowrap;
+	display: inline-block;
+	text-decoration: none;
+	font-size: .725em;
+	padding: .5rem 1rem;
   border-radius: 9999px;
-  --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
   transition-property: color,background-color,border-color,text-decoration-color,fill,stroke;
   transition-timing-function: cubic-bezier(0.4,0,0.2,1);
