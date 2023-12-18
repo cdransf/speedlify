@@ -197,6 +197,13 @@ abbr {
 	border-bottom: 7px solid transparent;
 	border-left: 7px solid #fff;
 }
+@media (max-width: 72em) {
+	.leaderboard-expand-icon:before {
+		border-top: 5px solid transparent;
+		border-bottom: 5px solid transparent;
+		border-left: 5px solid #fff;
+	}
+}
 .leaderboard-list-entry.expanded .leaderboard-expand-icon {
 	transform: rotate(90deg);
 }
