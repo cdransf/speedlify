@@ -10,5 +10,8 @@ module.exports = {
 		"https://coryd.dev",
 		"https://coryd.dev/about",
 		"https://coryd.dev/now",
+		// Popular Posts
+		"https://coryd.dev/posts/2023/i-block-ads/",
+		"https://coryd.dev/posts/2023/i-dont-want-streaming-music/",
 	]
 };
