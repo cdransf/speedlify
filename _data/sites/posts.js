@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Popular posts",
-	description: "Popular posts on coryd.dev",
+	description: "coryd.dev popular posts",
 	skip: !process.env.CONTEXT,
 	options: {
 		frequency: 60 * 23,

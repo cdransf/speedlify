@@ -1,6 +1,6 @@
 module.exports = {
 	name: "coryd.dev",
-	description: "Cory's personal web site",
+	description: "coryd.dev pages",
 	skip: !process.env.CONTEXT,
 	options: {
 		frequency: 60 * 23,
