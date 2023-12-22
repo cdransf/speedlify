@@ -10,5 +10,13 @@ module.exports = {
 		"https://coryd.dev",
 		"https://coryd.dev/about",
 		"https://coryd.dev/now",
+		"https://coryd.dev/tags",
+		"https://coryd.dev/search",
+		"https://coryd.dev/feeds",
+		"https://coryd.dev/uses",
+		"https://coryd.dev/referrals",
+		"https://coryd.dev/blogroll",
+		"https://coryd.dev/stats",
+		"https://coryd.dev/contact",
 	]
 };
