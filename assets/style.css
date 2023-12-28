@@ -1,11 +1,11 @@
 ::-moz-selection {
   color: #fff;
-  background: #60a5fa;
+  background: #609afa;
 }
 
 ::selection {
   color: #fff;
-  background: #60a5fa;
+  background: #609afa;
 }
 
 html {
@@ -13,14 +13,14 @@ html {
 	margin: 0;
 }
 body {
-	font-family: 'silka', 'Inter', 'Roboto', 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', 'Arial', 'system-ui', 'sans-serif';
-	background-color: #111827;
+	font-family: silka, Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, system-ui, sans-serif;
+	background-color: #000;
 	color: #fff;
 	margin: 0.5rem; /* 8px /16 */
 }
 
 a {
-	color: #60a5fa;
+	color: #609afa;
 	transition-timing-function: cubic-bezier(0.4,0,0.2,1);
   transition-duration: .3s;
 }
@@ -28,7 +28,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-	color: #bfdbfe;
+	color: #bfd7fe;
 }
 
 footer {
@@ -36,7 +36,7 @@ footer {
 	text-align: center;
 }
 code {
-	font-family: 'ui-monospace', 'Cascadia Code', 'Source Code Pro', 'Menlo', 'Consolas', 'DejaVu Sans Mono', 'monospace';
+	font-family: ml, 'ui-monospace', 'Cascadia Code', 'Source Code Pro', 'Menlo', 'Consolas', 'DejaVu Sans Mono', 'monospace';
 }
 
 html:not(.js) [data-js-only] {
@@ -163,13 +163,13 @@ abbr {
 	margin-right: auto;
 }
 .leaderboard-list-entry {
-	border-top: 1px solid #374151;
+	border-top: 1px solid #4b515d;
 }
 .leaderboard-list-entry:not(.expanded):target {
-	background-color: #111827;
+	background-color: #000;
 }
 .leaderboard-list-entry.expanded {
-	border-color: #374151;
+	border-color: #4b515d;
 }
 .leaderboard-list-entry-badrank {
 	border-top: 1px solid hsl(333, 100%, 20%);
@@ -180,7 +180,7 @@ abbr {
 }
 .leaderboard-list-entry.expanded,
 .leaderboard-list-entry-details.expanded {
-	background-color: #111827;
+	background-color: #000;
 }
 .leaderboard-expand-icon {
 	display: inline-block;
@@ -264,14 +264,14 @@ abbr {
   transition-timing-function: cubic-bezier(0.4,0,0.2,1);
   transition-duration: .3s;
 	color: #fff;
-  background-color: #2563eb!important;
+  background-color: #609afa !important;
 	text-align: center;
 }
 [data-expand-alias]:active,
 [data-expand-alias]:focus,
 [data-expand-alias]:hover {
 	color: #fff;
-	background: #bfdbfe;
+	background: #bfd7fe;
 }
 
 .js .leaderboard-details > summary {
@@ -303,7 +303,7 @@ abbr {
 }
 .results th {
 	color: #fff;
-	border: 1px solid #374151;
+	border: 1px solid #4b515d;
 	text-align: center;
 }
 .results th:first-child {
