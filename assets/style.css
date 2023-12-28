@@ -264,7 +264,7 @@ abbr {
   transition-timing-function: cubic-bezier(0.4,0,0.2,1);
   transition-duration: .3s;
 	color: #fff;
-  background-color: #609afa !important;
+  background-color: #609afa;
 	text-align: center;
 }
 [data-expand-alias]:active,
