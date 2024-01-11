@@ -9,5 +9,6 @@ module.exports = {
 	urls: [
 		"https://coryd.dev/posts/2023/i-block-ads/",
 		"https://coryd.dev/posts/2023/i-dont-want-streaming-music/",
+		"https://coryd.dev/posts/2024/i-found-the-music-i-love-on-the-internet/",
 	]
 };
