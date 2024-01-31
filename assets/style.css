@@ -13,7 +13,7 @@ html {
   margin: 0;
 }
 body {
-  font-family: silka, Inter, Roboto, "Helvetica Neue", system-ui, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
   background-color: #000;
   color: #fff;
   margin: 0.5rem; /* 8px /16 */
@@ -36,7 +36,7 @@ footer {
   text-align: center;
 }
 code {
-  font-family: ui-monospace, monospace;
+  font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, ui-monospace, monospace;
 }
 
 html:not(.js) [data-js-only] {
