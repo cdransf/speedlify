@@ -11,5 +11,6 @@ module.exports = {
 		"https://coryd.dev/posts/2023/i-dont-want-streaming-music/",
 		"https://coryd.dev/posts/2024/i-found-the-music-i-love-on-the-internet/",
 		"https://coryd.dev/posts/2024/i-dont-want-anything-your-ai-generates/",
+    "https://coryd.dev/posts/2024/renting-your-music-means-accepting-that-it-will-disappear/",
 	]
 };
