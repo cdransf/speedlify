@@ -323,7 +323,7 @@ module.exports = function(eleventyConfig) {
 		"./node_modules/chartist/dist/chartist.css.map": "chartist.css.map",
 	});
 	eleventyConfig.addPassthroughCopy('_redirects')
-
+  eleventyConfig.addPassthroughCopy('./assets/fonts')
 	eleventyConfig.addWatchTarget("./assets/");
 
 	eleventyConfig.setBrowserSyncConfig({
