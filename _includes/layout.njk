@@ -10,8 +10,6 @@
 		<script>
 		document.documentElement.classList.add("js");
 		</script>
-		<script defer data-domain="speedlify.coryd.dev" src="/js/script.js"></script>
-    <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 	</head>
 	<body>
 		<header>
@@ -41,11 +39,5 @@
 
 		<script defer src="{{ '/chartist.js' | url }}"></script>
 		<script defer src="{{ '/script.js' | url }}"></script>
-		<script>
-			;(async function () {
-				if (window.location.search.includes('ignore-me') && localStorage)
-					localStorage.plausible_ignore = true
-			})()
-		</script>
 	</body>
 </html>

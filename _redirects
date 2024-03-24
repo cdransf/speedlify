@@ -1,6 +1,2 @@
 # netlify app domain
 https://speedlify-coryd.netlify.app https://speedlify.coryd.dev 301!
-
-# analytics
-/js/script.js https://plausible.io/js/script.outbound-links.tagged-events.js 200
-/api/event https://plausible.io/api/event 200
