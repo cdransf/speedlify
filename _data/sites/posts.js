@@ -15,5 +15,6 @@ module.exports = {
     "https://coryd.dev/posts/2024/im-going-to-keep-opting-out/",
     "https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/",
     "https://coryd.dev/posts/2024/the-internet-isnt-dying-its-changing/",
+    "https://coryd.dev/posts/2024/we-have-a-content-quality-problem-not-a-content-quantity-problem/",
   ]
 };
