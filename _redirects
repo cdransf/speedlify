@@ -1,2 +1,7 @@
 # netlify app domain
 https://speedlify-coryd.netlify.app https://speedlify.coryd.dev 301!
+
+# analytics
+/8c42157f46e.js http://static.getclicky.com/js?in=/d5534106e03 200
+/d5534106e03 http://in.getclicky.com/in.php 200
+/a179056e8d3 http://in.getclicky.com/101449521ns.gif 200
