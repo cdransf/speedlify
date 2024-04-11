@@ -20,5 +20,6 @@ module.exports = {
     "https://coryd.dev/posts/2024/a-retrospective-on-a-year-without-streaming-music/",
     "https://coryd.dev/posts/2024/data-collection-should-always-be-opt-in/",
     "https://coryd.dev/posts/2024/ai-cannot-and-should-not-replace-search/",
+    "https://coryd.dev/posts/2024/weve-stopped-making-things-anyone-wants/",
   ]
 };
