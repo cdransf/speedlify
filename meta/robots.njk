@@ -1,0 +1,12 @@
+---
+permalink: '/robots.txt'
+eleventyExcludeFromCollections: true
+dynamicPermalink: false
+---
+User-agent: *
+Disallow:
+
+{% for robot in robots -%}
+User-agent: {{ robot }}
+{% endfor -%}
+Disallow: /
