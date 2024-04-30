@@ -8,7 +8,7 @@ module.exports = {
   },
   urls: [
     "https://coryd.dev",
-    "https://coryd.dev/posts",
+    "https://coryd.dev/posts/",
     "https://coryd.dev/now",
     "https://coryd.dev/about",
     "https://coryd.dev/links/",
