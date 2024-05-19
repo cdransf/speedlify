@@ -14,6 +14,8 @@ module.exports = {
     "https://coryd.dev/links/",
     "https://coryd.dev/search",
     "https://coryd.dev/feeds",
+    "https://coryd.dev/music/",
+    "https://coryd.dev/watching/",
     "https://coryd.dev/books/",
     "https://coryd.dev/uses",
     "https://coryd.dev/referrals",
