@@ -18,7 +18,7 @@ module.exports = {
     "https://coryd.dev/watching/",
     "https://coryd.dev/books/",
     "https://coryd.dev/uses",
-    "https://coryd.dev/referrals",
+    "https://coryd.dev/save",
     "https://coryd.dev/blogroll",
     "https://coryd.dev/stats",
     "https://coryd.dev/contact",
